@@ -8,9 +8,9 @@
           "id": "",
           "price": 1200,
           "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-          "thumb": "https://neryxomka.com/template/img/welcome.png",
+          "thumb": "/artemvelihin/img/2.png",
           "thumbs": [
-            "https://plus.unsplash.com/premium_photo-1683141052679-942eb9e77760?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+            "/artemvelihin/img/1.png"
           ],
           "name": "product"
         },
@@ -18,9 +18,9 @@
           "id": "",
           "price": 1200,
           "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-          "thumb": "https://neryxomka.com/template/img/welcome.png",
+          "thumb": "/artemvelihin/img/3.png",
           "thumbs": [
-            "https://plus.unsplash.com/premium_photo-1683141052679-942eb9e77760?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+            "/artemvelihin/img/4.png"
           ],
           "name": "product"
         },
@@ -28,9 +28,9 @@
           "id": "",
           "price": 1200,
           "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-          "thumb": "https://neryxomka.com/template/img/welcome.png",
+          "thumb": "/artemvelihin/img/5.png",
           "thumbs": [
-            "https://plus.unsplash.com/premium_photo-1683141052679-942eb9e77760?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+            "/artemvelihin/img/6.png"
           ],
           "name": "product"
         }
